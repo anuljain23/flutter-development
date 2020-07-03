@@ -13,4 +13,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # basic_card_flutter 
 This app is build to display my card
-<img src="Screenshot_20200703_235452.jpg" alt="Screenshot" width="500" height="600">
+<p>
+<img src="Screenshot_20200703_235452.jpg" alt="Screenshot" width="250" height="600">
+</p>
